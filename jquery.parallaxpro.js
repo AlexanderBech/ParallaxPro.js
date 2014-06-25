@@ -7,7 +7,7 @@
 
     $(window).load(function() {
 
-        // For each element that has a data-type attribute
+        // For each element that has the class
         $('.parallaxpro').each(function(){
 
             // Store some variables based on where we are
